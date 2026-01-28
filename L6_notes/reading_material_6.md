@@ -98,6 +98,6 @@ There are two approaches for using skills with subagents:
 
 ## References
 
-- For a more comprehensive guide on how to use Skills with Claude Code, please check out this [documentation](https://code.claude.com/docs/en/skills#run-skills-in-a-subagent).
+- For a more comprehensive guide on how to use Skills with Claude Code, please check out this [documentation](https://code.claude.com/docs/en/skills).
 
 - To learn more about subagents in Claude Code, check out this [guide](https://code.claude.com/docs/en/sub-agents).
