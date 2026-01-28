@@ -34,9 +34,9 @@ You can skip definining the `NOTION_TOKEN` if you choose not to try the MCP serv
 ### Optional - Getting a Notion Token
 This is to run the Notion local MCP server.
 
-**Note:** Node.js must be installed since the MCP server runs via `npx`. [Download Node.js here](https://nodejs.org/). 
+**Note:** Node.js must be installed since the MCP server runs via `npx`. Download Node.js [here](https://nodejs.org/). 
 
-1. Create an account with Notion (choose the free plan)[here](https://www.notion.so/signup) 
+1. Create an account with Notion (using the free plan) [here](https://www.notion.so/signup) 
 2. Go to [Notion Integrations](https://www.notion.so/my-integrations)
 3. Click **New integration**
 4. Give it a name and select the workspace
