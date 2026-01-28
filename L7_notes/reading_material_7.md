@@ -2,14 +2,14 @@
 
 ## Lesson's Files
 
-You can find all the files for L7 [here](../L7). Here are some highlighted files:
-- [System prompts for the main agent and subagents](../L7/prompts)
-- [Files for the `learning-a-tool` skill](../L7/.claude/skills/learning-a-tool/)
-- [utils.py](../L7/utils.py) (message formatting)
-- [agent.py](../L7/agent.py)
-- [The learning guide generated during filming](learning-mineru/)
+You can find all the files for L7 [here](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7). Here are some highlighted files:
+- [System prompts for the main agent and subagents](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7/prompts)
+- [Files for the `learning-a-tool` skill](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7/.claude/skills/learning-a-tool/)
+- [utils.py](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7/utils.py) (message formatting)
+- [agent.py](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7/agent.py)
+- [The learning guide generated during filming](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7_notes/learning-mineru/)
 
-To run the agent, follow the instructions in the [README file](../L7/README.md).
+To run the agent, follow the instructions in the [README file](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L7/README.md).
 
 ### Prompts Used in the Lesson
 

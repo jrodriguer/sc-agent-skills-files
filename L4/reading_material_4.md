@@ -1,8 +1,8 @@
 # Creating Custom Skills 
 
 ## Links to Custom Skills
-- [analyzing time series](custom_skills/analyzing-time-series/)
-- [generating practice questions](custom_skills/generating-practice-questions/)
+- [analyzing time series](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/analyzing-time-series/)
+- [generating practice questions](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/generating-practice-questions/)
 
 ## References
 For a complete list of Skills creation best practices and specification, make sure to check out:

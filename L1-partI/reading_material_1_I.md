@@ -4,16 +4,16 @@
 
 **Initial Conversation:** Here are the prompts and files used in the initial conversation:
 
-- [prompts](prompts_initial_conversation.md)
-- [CSV file](campaign_data_week1.csv)
-- [budget reallocation rules](budget_reallocation_rules.md)
+- [prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/prompts_initial_conversation.md)
+- [CSV file](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/campaign_data_week1.csv)
+- [budget reallocation rules](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/budget_reallocation_rules.md)
 
-**Skill Files:** You can find the files of the `analyzing-marketing-campaign` skill [here](skill/analyzing-marketing-campaign/).
+**Skill Files:** You can find the files of the `analyzing-marketing-campaign` skill [here](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/skill/analyzing-marketing-campaign/).
 
 **Conversation after the skill was uploaded:**
-- [prompts](prompts_with_skills.md)
-- [CSV file](campaign_data_week1.csv)
-- [Excel report obtained during filming](output_report_example/Marketing_Campaign_Report_Dec9-15.xlsx)
+- [prompts](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/prompts_with_skills.md)
+- [CSV file](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/campaign_data_week1.csv)
+- [Excel report obtained during filming](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L1-partI/output_report_example/Marketing_Campaign_Report_Dec9-15.xlsx)
 
 
 ## How to Try Skills?

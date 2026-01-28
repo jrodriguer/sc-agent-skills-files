@@ -3,11 +3,11 @@
 ## Lesson's Codebase and Files
 
 Links to the lesson's files:
-- [Codebase used in the lesson](../L6) 
-- [Files of the lesson's skills](../L6/.claude/skills/)
-- [Subagent Definitions](../L6/.claude/agents)
-- [Prompts used in the conversation](prompts.md)
-- [clear.py](clear.py)
+- [Codebase used in the lesson](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6)
+- [Files of the lesson's skills](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/skills/)
+- [Subagent Definitions](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/agents)
+- [Prompts used in the conversation](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/prompts.md)
+- [clear.py](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/clear.py)
 
 When you run the application for the first time in the terminal:
 - Start with `uv sync`

@@ -2,14 +2,14 @@
 
 ## Lesson Files
 
-You can find the lesson's notebook and all the required input files [here](.).
+You can find the lesson's notebook and all the required input files [here](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5).
 To run the notebook, you need to create a `.env` file containing an Anthropic API key (no Claude subscription is required):
 
 `ANTHROPIC_API_KEY="your-key"`
 
 You can get a key from [Claude Developer Platform](https://platform.claude.com/dashboard). 
 
-If you choose not to run the notebook, this [notebook](lesson_5.ipynb) displays the cell outputs (as shown in the video). And you can find the generated outputs [here](sample_outputs/).
+If you choose not to run the notebook, this [notebook](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5/lesson_5.ipynb) displays the cell outputs (as shown in the video). And you can find the generated outputs [here](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L5/sample_outputs/).
 
 ## Notes
 - Here's the [list of pre-installed libraries in the sandboxed environment](https://platform.claude.com/docs/en/agents-and-tools/tool-use/code-execution-tool#pre-installed-libraries)
