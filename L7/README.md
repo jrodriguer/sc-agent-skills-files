@@ -18,7 +18,7 @@ A multi-agent system built with the Claude Agent SDK that includes documentation
 ## Environment Variables
 
 | Variable | Description |
-|----------|----------|-------------|
+|----------|-------------|
 | `ANTHROPIC_API_KEY` | Your Anthropic API key for Claude access |
 | `NOTION_TOKEN` | Your Notion integration token for local MCP server access |
 
