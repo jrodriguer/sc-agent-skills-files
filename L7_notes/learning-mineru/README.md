@@ -53,16 +53,16 @@ learning-mineru/
 
 ## 🆘 Getting Help
 
-- Check the [Official Documentation](https://opendatalab.github.io/MinerU/)
-- Join the [Discord Community](https://discord.com/invite/Tdedn9GTXq)
-- Browse [GitHub Issues](https://github.com/opendatalab/MinerU/issues)
+- Check the <a href="https://opendatalab.github.io/MinerU/" target="_blank">Official Documentation</a>
+- Join the <a href="https://discord.com/invite/Tdedn9GTXq" target="_blank">Discord Community</a>
+- Browse <a href="https://github.com/opendatalab/MinerU/issues" target="_blank">GitHub Issues</a>
 - See `resources.md` for tutorials and guides
 
 ## 🎓 About MinerU
 
 **Version**: 2.7.1 (January 2026)
 **License**: AGPL-3.0
-**Repository**: [github.com/opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+**Repository**: <a href="https://github.com/opendatalab/MinerU" target="_blank">github.com/opendatalab/MinerU</a>
 
 MinerU was created during the InternLM pre-training process to solve symbol conversion issues in scientific literature. Today, it's a mature tool trusted by researchers, developers, and data scientists for converting complex PDFs into LLM-ready formats.
 

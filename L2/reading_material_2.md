@@ -49,5 +49,5 @@ Skills can enhance both the main agent AND its subagents with specialized knowle
 
 
 ## References
-* [Skills Explained](https://www.claude.com/blog/skills-explained)
-* [Teach Claude your Way of Working using Skills](https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills)
+* <a href="https://www.claude.com/blog/skills-explained" target="_blank">Skills Explained</a>
+* <a href="https://support.claude.com/en/articles/12580051-teach-claude-your-way-of-working-using-skills" target="_blank">Teach Claude your Way of Working using Skills</a>

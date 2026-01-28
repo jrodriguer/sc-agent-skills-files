@@ -26,7 +26,7 @@ You can skip definining the `NOTION_TOKEN` if you choose not to try the MCP serv
 
 ### Getting an Anthropic API Key
 
-1. Go to the [Anthropic Console](https://console.anthropic.com/)
+1. Go to the <a href="https://console.anthropic.com/" target="_blank">Anthropic Console</a>
 2. Sign up or log in to your account
 3. Navigate to **API Keys** in the settings
 4. Click **Create Key** and copy the generated key
@@ -34,10 +34,10 @@ You can skip definining the `NOTION_TOKEN` if you choose not to try the MCP serv
 ### Optional - Getting a Notion Token
 This is to run the Notion local MCP server.
 
-**Note:** Node.js must be installed since the MCP server runs via `npx`. Download Node.js [here](https://nodejs.org/). 
+**Note:** Node.js must be installed since the MCP server runs via `npx`. Download Node.js <a href="https://nodejs.org/" target="_blank">here</a>. 
 
-1. Create an account with Notion (using the free plan) [here](https://www.notion.so/signup) 
-2. Go to [Notion Integrations](https://www.notion.so/my-integrations)
+1. Create an account with Notion (using the free plan) <a href="https://www.notion.so/signup" target="_blank">here</a> 
+2. Go to <a href="https://www.notion.so/my-integrations" target="_blank">Notion Integrations</a>
 3. Click **New integration**
 4. Give it a name and select the workspace
 5. Click on **Configure Internal Settings**
@@ -47,7 +47,7 @@ This is to run the Notion local MCP server.
     - Click on **Edit Access**
     - Search for the pages you want to include
 
-For more details, check the installation details [here](https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file#installation).
+For more details, check the installation details <a href="https://github.com/makenotion/notion-mcp-server?tab=readme-ov-file#installation" target="_blank">here</a>.
 
 ## Running the Agent
 

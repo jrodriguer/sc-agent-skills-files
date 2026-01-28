@@ -97,6 +97,6 @@ designing-newsletters/
 
 ## References
 
-- [What are Skills?](https://agentskills.io/what-are-skills)
-- [How Skills Work](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview#how-skills-work)
-- [Barry Zhang & Mahesh Murag Talk at the AI Engineer's Fair](https://www.youtube.com/watch?v=CEvIs9y1uog)
+- <a href="https://agentskills.io/what-are-skills" target="_blank">What are Skills?</a>
+- <a href="https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview#how-skills-work" target="_blank">How Skills Work</a>
+- <a href="https://www.youtube.com/watch?v=CEvIs9y1uog" target="_blank">Barry Zhang & Mahesh Murag Talk at the AI Engineer's Fair</a>

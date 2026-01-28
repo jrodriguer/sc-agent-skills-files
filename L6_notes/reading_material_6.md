@@ -3,11 +3,11 @@
 ## Lesson's Codebase and Files
 
 Links to the lesson's files:
-- [Codebase used in the lesson](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6)
-- [Files of the lesson's skills](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/skills/)
-- [Subagent Definitions](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/agents)
-- [Prompts used in the conversation](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/prompts.md)
-- [clear.py](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/clear.py)
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6" target="_blank">Codebase used in the lesson</a>
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/skills/" target="_blank">Files of the lesson's skills</a>
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6/.claude/agents" target="_blank">Subagent Definitions</a>
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/prompts.md" target="_blank">Prompts used in the conversation</a>
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L6_notes/clear.py" target="_blank">clear.py</a>
 
 When you run the application for the first time in the terminal:
 - Start with `uv sync`
@@ -24,22 +24,22 @@ This is a starter codebase for a todo CLI app. In the lesson, we demonstrated ho
 ## Claude Code
 
 If this is your first time trying Claude Code, you can check out these courses:
-- [Claude Code: A Highly Agentic Coding Assistant](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/) 
-- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+- <a href="https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/" target="_blank">Claude Code: A Highly Agentic Coding Assistant</a> 
+- <a href="https://anthropic.skilljar.com/claude-code-in-action" target="_blank">Claude Code in Action</a>
 
 If you've completed any of these courses and would like to see an advanced course on Claude Code, please leave us feedback on what topics you'd like us to cover.
 
 ## Skills with Claude Code
 
-In the lesson, you saw how to add skills at the project level. Here's a [list](https://code.claude.com/docs/en/skills#where-skills-live) of other locations where your skills can live.
+In the lesson, you saw how to add skills at the project level. Here's a <a href="https://code.claude.com/docs/en/skills#where-skills-live" target="_blank">list</a> of other locations where your skills can live.
 
 ### What additional fields can you add to the frontmatter?
 
-In addition to `name` and `description`, you can add several other fields to your skills when working in Claude Code, such as `allowed-tools`, `model`, `disable-model-invocation`, `user-invocable`, `argument-hint`, `context`, and `agent`. Most of these fields were added after we filmed the course, which is why we didn't have the chance to cover them in the video. You can find a description of each field in the documentation [here](https://code.claude.com/docs/en/skills#frontmatter-reference).
+In addition to `name` and `description`, you can add several other fields to your skills when working in Claude Code, such as `allowed-tools`, `model`, `disable-model-invocation`, `user-invocable`, `argument-hint`, `context`, and `agent`. Most of these fields were added after we filmed the course, which is why we didn't have the chance to cover them in the video. You can find a description of each field in the documentation <a href="https://code.claude.com/docs/en/skills#frontmatter-reference" target="_blank">here</a>.
 
 ### Skills Invocation in Claude Code
 
-Any skill in Claude Code can be model-invoked (as demonstrated in this lesson) or user-invoked. For example, if you want to invoke the skill `adding-cli-command`, you can type `/adding-cli-command` and then describe what command to add. The fields `disable-model-invocation` and `user-invocable` allow you to further control this behavior, as explained [here](https://code.claude.com/docs/en/skills#control-who-invokes-a-skill).
+Any skill in Claude Code can be model-invoked (as demonstrated in this lesson) or user-invoked. For example, if you want to invoke the skill `adding-cli-command`, you can type `/adding-cli-command` and then describe what command to add. The fields `disable-model-invocation` and `user-invocable` allow you to further control this behavior, as explained <a href="https://code.claude.com/docs/en/skills#control-who-invokes-a-skill" target="_blank">here</a>.
 
 ### Skills and Slash Commands Have Been Merged
 
@@ -49,7 +49,7 @@ As of January 23, custom slash commands have been merged into skills. This merge
 
 ### Subagents and Skills
 
-In the lesson, you saw how to create custom subagents. Claude Code also includes built-in subagents like `Explore`, `Plan`, and `General-Purpose` ([Built-in subagents](https://code.claude.com/docs/en/sub-agents#built-in-subagents)).
+In the lesson, you saw how to create custom subagents. Claude Code also includes built-in subagents like `Explore`, `Plan`, and `General-Purpose` (<a href="https://code.claude.com/docs/en/sub-agents#built-in-subagents" target="_blank">Built-in subagents</a>).
 
 There are two approaches for using skills with subagents:
 
@@ -93,11 +93,11 @@ There are two approaches for using skills with subagents:
     3. Summarize findings with specific file references
     ```
 
-    Reference: [Run Skills in a subagent](https://code.claude.com/docs/en/skills#run-skills-in-a-subagent)
+    Reference: <a href="https://code.claude.com/docs/en/skills#run-skills-in-a-subagent" target="_blank">Run Skills in a subagent</a>
 
 
 ## References
 
-- For a more comprehensive guide on how to use Skills with Claude Code, please check out this [documentation](https://code.claude.com/docs/en/skills).
+- For a more comprehensive guide on how to use Skills with Claude Code, please check out this <a href="https://code.claude.com/docs/en/skills" target="_blank">documentation</a>.
 
-- To learn more about subagents in Claude Code, check out this [guide](https://code.claude.com/docs/en/sub-agents).
+- To learn more about subagents in Claude Code, check out this <a href="https://code.claude.com/docs/en/sub-agents" target="_blank">guide</a>.

@@ -1,13 +1,13 @@
 # Creating Custom Skills 
 
 ## Links to Custom Skills
-- [analyzing time series](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/analyzing-time-series/)
-- [generating practice questions](https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/generating-practice-questions/)
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/analyzing-time-series/" target="_blank">analyzing time series</a>
+- <a href="https://github.com/https-deeplearning-ai/sc-agent-skills-files/tree/main/L4/custom_skills/generating-practice-questions/" target="_blank">generating practice questions</a>
 
 ## References
 For a complete list of Skills creation best practices and specification, make sure to check out:
-- [Skill authoring best practices](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices)
-- [Specification](https://agentskills.io/specification)
+- <a href="https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices" target="_blank">Skill authoring best practices</a>
+- <a href="https://agentskills.io/specification" target="_blank">Specification</a>
 
 ## How to Disable Plugins in Claude Code?
 

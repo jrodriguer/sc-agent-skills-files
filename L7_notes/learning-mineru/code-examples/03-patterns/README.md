@@ -206,6 +206,6 @@ python api_server.py
 
 ## Resources
 
-- FastAPI docs: https://fastapi.tiangolo.com/
-- ChromaDB docs: https://docs.trychroma.com/
-- RAG guide: https://python.langchain.com/docs/use_cases/question_answering/
+- FastAPI docs: <a href="https://fastapi.tiangolo.com/" target="_blank">https://fastapi.tiangolo.com/</a>
+- ChromaDB docs: <a href="https://docs.trychroma.com/" target="_blank">https://docs.trychroma.com/</a>
+- RAG guide: <a href="https://python.langchain.com/docs/use_cases/question_answering/" target="_blank">https://python.langchain.com/docs/use_cases/question_answering/</a>
